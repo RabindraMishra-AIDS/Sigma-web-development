@@ -1,1 +1,1 @@
-https://www.google.com/imgres?q=web%20dev&imgurl=https%3A%2F%2Fju-makerspace.github.io%2Fimages%2Fwebdev1.jpeg&imgrefurl=https%3A%2F%2Fju-makerspace.github.io%2Fwebdev.html&docid=YaisTq-5R7Ek7M&tbnid=BLUDRlwhmVjDiM&vet=12ahUKEwixtcGT3IuIAxXuxzgGHXAfAtwQM3oECGUQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwixtcGT3IuIAxXuxzgGHXAfAtwQM3oECGUQAA
+![Alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--JvNg6LJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/5ct9nhbw6gdpb8dh0yy1.png)
